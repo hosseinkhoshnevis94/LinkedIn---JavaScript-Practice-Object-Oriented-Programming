@@ -1,1 +1,1 @@
-# LinkedIn---JavaScript-Practice-Object-Oriented-Programming
+# LinkedIn: JavaScript-Practice-Object-Oriented-Programming
